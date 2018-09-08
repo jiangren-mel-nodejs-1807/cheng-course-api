@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "mlab": {
+    "host": "ds149672.mlab.com",
+    "port": 49672,
+    "url": "",
+    "database": "cheng-course",
+    "password": "jiangren1",
+    "name": "mlab",
+    "user": "jiangren1",
+    "connector": "mongodb"
   }
 }
