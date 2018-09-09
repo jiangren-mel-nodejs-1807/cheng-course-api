@@ -38,5 +38,13 @@
   "Student": {
     "dataSource": "mlab",
     "public": true
+  },
+  "Course": {
+    "dataSource": "mlab",
+    "public": true
+  },
+  "Enrollment": {
+    "dataSource": "mlab",
+    "public": true
   }
 }
